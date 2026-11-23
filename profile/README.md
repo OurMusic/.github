@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-ourmusic.svg" alt="Banner oficial da organização OurMusic" width="100%" />
+  <img src="https://raw.githubusercontent.com/OurMusic/.github/main/profile/banner-ourmusic.svg" alt="Banner oficial da organização OurMusic" width="100%" />
 </p>
 
 <p align="center">
